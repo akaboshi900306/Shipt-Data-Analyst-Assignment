@@ -1,5 +1,8 @@
 # Shipt-Marketing-Data-Analyst-Take-Home-Assignment
-Shipt,  a grocery delivery unicorn company technical interview in marketing
+Shipt,  a grocery delivery unicorn company based in Alabama, is the biggest competitor of Instacart.
+
+
+I got an technical interview in marketing from Shipt in Nov 2020.
 
 
 There	are	four	data	sets	provided	with	these	questions.	For	the	most	part,	the	column	names	in	each	file	are	
